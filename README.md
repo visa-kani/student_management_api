@@ -29,21 +29,8 @@ Role-based login (Admin and Faculty), CRUD operations, import/export to Excel, p
   4. npm install
   5. Setup MySQL Database locally
 
-## Create a database in your MySQL server (e.g., student_management).
+##### Create a database in your MySQL server (e.g., student_management).
 `Update your database connection configurations in your project accordingly.`
-
- #### Run the project
-`npm run dev`
-
-##### ✨ Features
-✅ Role-based authentication (Admin and Faculty)
-✅ Admin CRUD (create, read, update, delete) on students
-✅ Faculty view-only access
-✅ Search and pagination for student records
-✅ Export student data to Excel
-✅ Import student data via Excel (Admin only)
-✅ Activity logs for student data modifications
-✅ Analytics of students per course
 
 ##### 🛠 Dependencies
 1. express
